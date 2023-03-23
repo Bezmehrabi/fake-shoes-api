@@ -7,6 +7,6 @@
     { "id": 5, "name": "Nike Joyride Dual Run", "price": 170, "salePrice": 120, "currency": "USD", "colors": ["black", "white"], "new": false },
     { "id": 6, "name": "NNike Tiempo Legend 8 Academy TF", "price": 165, "salePrice": 155, "currency": "USD", "colors": ["red", "blue"], "new": false },
     { "id": 7, "name": "Nike React Infinity Pro", "price": 160, "salePrice": 140, "currency": "USD", "colors": ["white"], "new": false },
-    { "id" 8, "name": "Nike React Phantom Run Flyknit 2", "price": 120, "currency": "USD", "colors": ["white"], "new": false }
+    { "id": 8, "name": "Nike React Phantom Run Flyknit 2", "price": 120, "currency": "USD", "colors": ["white"], "new": false }
   ]
 }
